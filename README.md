@@ -48,13 +48,6 @@
 
 📧 Email: [robbyrunge@yahoo.com](mailto:robbyrunge@yahoo.com)
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RobbyRunge/count.svg?"  />
-</div>
-
-
 
 
 <!---
