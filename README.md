@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📍 My name is Robby and I’m a prospective Full-Stack developer from Eilenburg<br> 📁 Check my projects here: https://robby-runge.de/ (PS: the portfolio is in process 😊)</p>
+<p align="left">📍 My name is Robby and I’m a prospective Full-Stack developer from Eilenburg<br> 📁 Check my projects here: https://robby-runge.de/</p>
 
 ###
 
