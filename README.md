@@ -52,12 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobbyRunge&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
 
-###
-
-<h2 align="center">📫 Contact me</h2>
-
-📧 Email: [robbyrunge@yahoo.com](mailto:robbyrunge@yahoo.com)
-
 
 
 <!---
