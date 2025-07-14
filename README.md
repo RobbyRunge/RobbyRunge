@@ -2,27 +2,27 @@
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">📍 My name is Robby and I’m a prospective Full-Stack developer from Eilenburg<br> 📁 Check my projects here: https://robby-runge.de/</p>
+<p align="center">📍 My name is Robby and I’m a prospective Full-Stack developer from Eilenburg<br> 📁 Check my projects here: https://robby-runge.de/</p>
 
 ###
 
-<h2 align="left">📌 About me</h2>
+<h2 align="center">📌 About me</h2>
 
 ###
 
-<p align="left">👀 I’m interested in coding, learning new technologies, and solving complex problems.<br>🌱 I’m currently learning Full-Stack Development and expanding my skills in both front-end and back-end technologies.<br> 💞️ As part of my training, I’m working on projects that you can check out on my GitHub profile.<br>
+<p align="center">👀 I’m interested in coding, learning new technologies, and solving complex problems.<br>🌱 I’m currently learning Full-Stack Development and expanding my skills in both front-end and back-end technologies.<br> 💞️ As part of my training, I’m working on projects that you can check out on my GitHub profile.<br>
 
 ###
 
-<h2 align="left">🛠️ I code with</h2>
+<h2 align="center">🛠️ I code with</h2>
 
 ###
 
-<div align="left", display="flex">
+<div align="center", display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="typescript logo"  />
@@ -46,15 +46,15 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RobbyRunge&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobbyRunge&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2" height="160" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=RobbyRunge&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RobbyRunge&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="left">📫 Contact me</h2>
+<h2 align="center">📫 Contact me</h2>
 
 📧 Email: [robbyrunge@yahoo.com](mailto:robbyrunge@yahoo.com)
 
